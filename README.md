@@ -28,6 +28,8 @@ Steps to attempt this assignment:
     4. Push the code back to your fork.
     5. paste the repository link on classroom
 
+You can specify your own packages if require.
+
 Please feel free to reach out to me in case of any queries. 
 
 *\*ctrl+c &  ctrl+v from assignment 1* 
