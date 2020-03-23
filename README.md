@@ -13,7 +13,7 @@
 * Implement a queue to store pre - order successor of all the nodes of given binary search tree.
 ### Problem - 5
 * Implement a circular queue to process the given list of students  as per the following conditions:
-  1. Element will be removed from the queue if its backLog counter contains is equal to zero.
+  1. Element will be removed from the queue if its backLog counter value is equal to zero.
   2. You can only process the front element, processing means "backLog - appearingCount".
   3. For any element appearing count will not be greater than 2.
   
